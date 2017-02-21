@@ -1,21 +1,14 @@
-# bitaddress.org
-JavaScript Client-Side Bitcoin Wallet Generator
+# ion.money
+JavaScript Client-Side Ion Wallet Generator
 
-Now Bitcoin addresses and their corresponding private key can be conveniently 
+Now Ion addresses and their corresponding private key can be conveniently
 generated in a web browser.
 
-The bitaddress.org project provides an all-in-one HTML document with embedded
+The ion.money project provides an all-in-one HTML document with embedded
 JavaScript/Css/Images. The JavaScript is readable not minified and contains no
-XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the 
-JavaScript locally and trust that the JavaScript did not change after being 
+XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the
+JavaScript locally and trust that the JavaScript did not change after being
 loaded. 
-
-Here is a link to the BitcoinTalk.org forum topic discussing this project:
-https://bitcointalk.org/index.php?topic=43496.0
-
-
-Please send DONATIONS for this project to Bitcoin Address: 
-1NiNja1bUmhSoTXozBRBEtR8LeF9TGbZBN
 
 
 END USER NOTES:
@@ -35,10 +28,10 @@ END USER NOTES:
 
 Notice of Copyrights and Licenses:
 ---------------------------------------
-The bitaddress.org project, software and embedded resources are
-copyright bitaddress.org.
+The ion.money project, software and embedded resources are
+copyright ion.money.
 
-The bitaddress.org name and logo are not part of the open source
+The ion.money name and logo are not part of the open source
 license.
 
 Portions of the all-in-one HTML document contain JavaScript codes that
@@ -58,8 +51,9 @@ window.BigInteger |	BSD License
 window.QRCode | MIT License
 window.Bitcoin | MIT License
 
-The bitaddress.org software is available under The MIT License (MIT)
-Copyright (c) 2011-2013 bitaddress.org
+The ion.money software is available under The MIT License (MIT)
+Copyright (c) 2011-2016 bitaddress.org
+Copyright (c) 2017 ion.money
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
